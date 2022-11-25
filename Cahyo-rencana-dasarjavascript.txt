@@ -1,0 +1,9 @@
+RENCANA MENGUSAI DASAR JAVASCRIPT
+
+- Mengenal Sintaks javascript
+  * belajar dari channel yt WPU
+- Memahami Sintaks javascript
+- Membuat projek sederhana dengan mengikuti tutorial youtube
+  * belajar dari channel yt DEA AFRIZAL
+- Mengulang dan memofikasi projek sederhana yg sdh dipelajari
+- menguji berjalannya projek dengan baik
